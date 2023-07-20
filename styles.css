@@ -6,11 +6,10 @@ body{
     align-items: center;
 }
 button{
-    padding: 10px 5px;
+    padding: 10px 25px;
     background-color: greenyellow;
     border-radius: 50px;
 }
 button:hover{
-    background-color: aqua;
-    transform: rotate(180deg);
+    background-color: orangered;
 }
